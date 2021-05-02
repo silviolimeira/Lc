@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619901335 source:d:\projetos\2021\lc\teste\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619967709 source:d:\projetos\2021\lc\teste\teste\file_io.c
+	<stdio.h>
+	<stdlib.h>
+
+1619969831 source:d:\projetos\2021\lc\teste\teste\grava-linha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619974517 source:d:\projetos\2021\lc\teste\teste\lista-postal.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
